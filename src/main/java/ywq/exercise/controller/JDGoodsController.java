@@ -21,7 +21,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * 描述:待描述.
+ * 描述:JD商品控制器.
  * <p>
  *
  * @author yanwenqiang.

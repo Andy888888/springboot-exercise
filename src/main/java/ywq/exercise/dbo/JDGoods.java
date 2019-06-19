@@ -7,7 +7,7 @@ import javax.persistence.*;
 import java.util.Date;
 
 /**
- * 描述:待描述.
+ * 描述:JD商品数据实体.
  * <p>
  *
  * @author yanwenqiang.
